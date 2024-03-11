@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\src\LibCloudStorage\LibCloudStorage.csproj" />
+    <ProjectReference Include="..\src\LibBlobStorage\LibBlobStorage.csproj" />
   </ItemGroup>
 
   <ItemGroup>
